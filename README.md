@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP, PYTHON Languages,  AI and related Projects
 - 🌱 I’m currently learning REACT-NATIVE
 - 💞️ I’m looking to collaborate on any project to create General AI
-- 📫 How to reach me yaredk999@gmail.com
+- 📫 How to reach me yaredoffice@gmail.com
 
 <!---
 yaponek/yaponek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
